@@ -1,0 +1,24 @@
+{
+    "name"              : "BDP Concierge",
+    "short_name"        : "BDP Concierge",
+    "description"       : "Luxury concierge services in South Florida",
+    "start_url"         : "index.html",
+    "display"           : "minimal-ui",
+    "orientation"       : "any",
+    "icons": [
+        {
+            "src": "apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "favicon-96x96-dark.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#162D24",
+    "background_color": "#F5E8D1"
+}
