@@ -2,7 +2,7 @@
     "name"              : "BDP Concierge",
     "short_name"        : "BDP Concierge",
     "description"       : "Luxury concierge services in South Florida",
-    "start_url"         : "index.html",
+    "start_url"         : "https://dbpassets.com/",
     "display"           : "minimal-ui",
     "orientation"       : "any",
     "icons": [
